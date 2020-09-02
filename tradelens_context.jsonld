@@ -12,4 +12,4 @@
     "equipmentType": "https://edi3.org/vocab/#CharacteristicTransportEquipmentSizeTypeCode",
     "equipmentQuantity": "https://edi3.org/vocab/#TransportEquipmentQuantity",
     "bookingData": "https://edi3.org/vocab/#Booking"
-  },
+  }

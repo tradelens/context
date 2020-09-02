@@ -1,14 +1,15 @@
-{
   "@context": {
-    "originatorId": "https://edi3.org/vocab/#CarrierTradeParty",
-    "bookingData": "https://edi3.org/vocab/#Booking",
+    "senderOrgName": "https://edi3.org/vocab/#CarrierTradeParty",
     "commodities": "https://edi3.org/vocab/#ConsignmentItem",
-    "voyageId": "https://edi3.org/vocab/#TransportMovement",
-    "vesselId": "https://edi3.org/vocab/#TransportMeans",
+    "voyage": "https://edi3.org/vocab/#TransportMovement",
+    "voyageId": "https://edi3.org/vocab/#IdentificationIdentifier",
+    "vessel": "https://edi3.org/vocab/#TransportMeans",
+    "vehicleId": "https://edi3.org/vocab/#IdentificationIdentifier",
+    "vehicleName": "https://edi3.org/vocab/#NameText",
     "commodities": "https://edi3.org/vocab/#ConsignmentItem",
     "commodityDescription": "https://edi3.org/vocab/#InformationText",
     "transportEquipmentDetails": "https://edi3.org/vocab/#TransportEquipment",
     "equipmentType": "https://edi3.org/vocab/#CharacteristicTransportEquipmentSizeTypeCode",
-    "equipmentQuantity": "https://edi3.org/vocab/#TransportEquipmentQuantity"
-  }
-}
+    "equipmentQuantity": "https://edi3.org/vocab/#TransportEquipmentQuantity",
+    "bookingData": "https://edi3.org/vocab/#Booking"
+  },

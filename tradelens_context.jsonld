@@ -1,3 +1,4 @@
+{
   "@context": {
     "senderOrgName": "https://edi3.org/vocab/#CarrierTradeParty",
     "commodities": "https://edi3.org/vocab/#ConsignmentItem",
@@ -13,3 +14,4 @@
     "equipmentQuantity": "https://edi3.org/vocab/#TransportEquipmentQuantity",
     "bookingData": "https://edi3.org/vocab/#Booking"
   }
+}
